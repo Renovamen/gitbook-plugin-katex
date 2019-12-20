@@ -1,5 +1,5 @@
 # Math typesetting using KaTex
-Forked from GitbookIO/plugin-katex. Update Katex from 0.5.1 to the latest version (0.11.1).
+Forked from [GitbookIO/plugin-katex](https://github.com/GitbookIO/plugin-katex). Update Katex from 0.5.1 to the latest version (0.11.1).
 
 &nbsp;
 ## Configuration
