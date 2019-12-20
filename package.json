@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-plugin-katex",
+  "description": "Math typesetting using KaTex into GitBook, forked from GitbookIO/plugin-katex. Update Katex to the latest version (0.11.1).",
+  "main": "index.js",
+  "version": "1.1.4",
+  "engines": {
+      "gitbook": ">=2.0.0"
+  },
+  "homepage": "https://github.com/GitbookIO/plugin-katex",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/GitbookIO/plugin-katex.git"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+      "url": "https://github.com/GitbookIO/plugin-katex/issues"
+  },
+  "dependencies": {
+      "katex": "0.11.1"
+  },
+  "keywords": ["math", "latex"]
+}
